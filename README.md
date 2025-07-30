@@ -4,8 +4,8 @@ A simple and interactive **Simon Says** memory game built using HTML, CSS, and J
 
 ## 🚀 Live Demo
 
-Check out the live version here: [Simon Says Game](https://your-deployment-link.com)  
-*(Replace this with your actual deployment link if available)*
+Check out the live version here: [Simon Says Game](file:///C:/Users/devsa/Desktop/JavaScript/simon.html)
+
 
 ---
 
